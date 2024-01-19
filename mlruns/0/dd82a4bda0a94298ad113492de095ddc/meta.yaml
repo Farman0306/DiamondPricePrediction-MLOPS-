@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ml/MLOPS/mlruns/0/dd82a4bda0a94298ad113492de095ddc/artifacts
+end_time: 1705659879749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd82a4bda0a94298ad113492de095ddc
+run_name: righteous-gnat-466
+run_uuid: dd82a4bda0a94298ad113492de095ddc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705659877056
+status: 3
+tags: []
+user_id: ml
